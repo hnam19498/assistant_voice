@@ -1,4 +1,3 @@
-from email.mime import audio
 import speech_recognition as sr
 from datetime import date, datetime
 import pyttsx3, time
